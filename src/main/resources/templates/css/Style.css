@@ -1,0 +1,51 @@
+
+.body3
+{
+    background-image:url("https://dy5jipgyozh6.cloudfront.net/wp-content/uploads/2016/09/16155759/Lost-Pet-.jpg") ;
+}
+
+.body1
+{
+    background-color: beige;
+}
+
+.body2
+{
+    background-color: lightpink;
+}
+
+.html{
+    height: 100px;
+}
+
+.fontstyle
+{
+    margin-top: 30px;
+    font-size: 30px;
+    color: darkslategrey;
+}
+
+
+.fontstyle1
+{
+    margin-top: 10px;
+    font-size: 20px;
+    color: darkslategrey;
+}
+
+.col-gap
+{
+    column-gap:40px
+}
+
+.fontstyle2
+{
+
+    font-size: 20px;
+    color: darkslategrey;
+}
+
+.table
+{
+    border: 1px solid black;
+}
